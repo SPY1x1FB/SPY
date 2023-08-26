@@ -1,2 +1,2 @@
 import SPYPRO
-SPYPRO.Main()
+SPYPRO.Spy()
